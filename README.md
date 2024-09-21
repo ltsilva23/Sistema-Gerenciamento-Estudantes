@@ -16,7 +16,7 @@ Este é um sistema simples em Python para gerenciar estudantes. Ele permite adic
 
 2. Execute o script Python:
 
-python estudante.py
+python sistema_estudantes.py
 
 
 
