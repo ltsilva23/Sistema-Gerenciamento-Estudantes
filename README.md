@@ -1,4 +1,4 @@
-Sistema de Gerenciamento de Estudantes
+# Sistema de Gerenciamento de Estudantes
 
 ## Descrição
 Este é um sistema simples em Python para gerenciar estudantes. Ele permite adicionar estudantes, atualizar suas notas, visualizar informações específicas e listar todos os estudantes cadastrados.
